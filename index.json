@@ -1,0 +1,11 @@
+{
+  "org": "pvlib",
+  "repo": "solposx",
+  "versions": [
+    {
+      "commit": "498c7cc10b3b7275d3f7683ef27b40d7665b84f6",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:11:21.081084+00:00"
+    }
+  ]
+}
